@@ -1,13 +1,14 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
-
 
 My name is Matheus Gois. Aspiring to Software Developer in the World..
 
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mgoiss&repo=mgoiss&countColorcountColor)
 
-### Languages & Tools 🛠  
+
+### 💻 Languages & Tools 🛠  
+
 <p>
   <img height="25" src="https://img.shields.io/badge/-HTML5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/-CSS3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" /> 
@@ -45,7 +46,6 @@ My name is Matheus Gois. Aspiring to Software Developer in the World..
 ### Let's connect? 🤝
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/mgoiss/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
+<a href="mailto:mrochagois@gmail.com"><img src="https://img.shields.io/badge/-mrochagois@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
